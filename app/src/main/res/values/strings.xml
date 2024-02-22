@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Task_6 Graphs &amp; Local DB</string>
+
+    <string name="add_new_list">Add new list</string>
+    <string name="graph_activity">Bar Chart</string>
+    <string name="list_name">List name</string>
+    <string name="add_new_value">Add new value</string>
+    <string name="enter_list_name">Enter list name</string>
+    <string name="done">Done</string>
+    <string name="edit">Edit</string>
+    <string name="update">Update</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_name">Edit name</string>
+    <string name="delete">Delete</string>
+    <string name="no_data_found">No data found!</string>
+    <string name="field_must_not_be_empty">This field must not be empty</string>
+    <string name="value">Value</string>
+    <string name="you_can_add_upto_5_values">You can only add 5 values</string>
+    <string name="list_name_is_required">List name is required</string>
+    <string name="all_fields_are_required">You have to add 5 fields and all fields are required</string>
+    <string name="invalid_value">Invalid entry, Please enter numbers only</string>
+    <string name="name_entity_id">nameEntityId</string>
+    <string name="bar_chart">Bar Chart</string>
+</resources>
